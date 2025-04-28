@@ -1,7 +1,8 @@
 # Vectorization-Outliner
 Allowing to create vectorization outline for images to create STL files for 3D Modelling
 
-Implementation Approach
+Approach
+
 Phase 1: Core Image Processing
 
 Phase 2: 3D Model Generation
